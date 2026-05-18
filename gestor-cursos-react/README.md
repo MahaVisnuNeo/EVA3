@@ -22,3 +22,10 @@ If you are developing a production application, we recommend using TypeScript wi
 ![Texto alternativo](gestor-cursos-react/imagenes/PrintFuncionando4(TodosLosFav.).png)
 ![Texto alternativo](gestor-cursos-react/imagenes/PrintFuncionando5(Refresh99Favs.).png)
 ![Texto alternativo](gestor-cursos-react/imagenes/PrintFuncionando6(LocalStorageFavs.).png)
+
+Reflexion sobre el uso de IA:
+Se utiliza la IA para corregir errores en el codigo general del proyecto EVA3.
+Se solicita la correccion de los codigos con errores.
+Se solicita a la IA que agregue algunas lineas de codigo para hacer funcionar el package.json
+El uso de la IA fue para mejorar el codigo, hacer algunas correcciones y generar un codigo limpio.
+En cuanto al uso de la IA para saber y ser consciente de que sirve y como funcionan las modificaciones solicitadas a la IA, teniendo en cuenta y teniendo el conocimiento de las modificaciones realizadas para saber porque se genero el codigo y para saber como funcionaba.
